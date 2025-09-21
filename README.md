@@ -55,12 +55,17 @@ Find my notes on [Medium](https://medium.com/) (https://medium.com/@swati0594).
 </p>
 
 ---
+| Most Used Languages | GitHub Stats |
+|--------------------|--------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatisinghit&layout=compact) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swatisinghit&show_icons=true) |
+
+<!--
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatisinghit&layout=compact&theme=radical)
 
 ### 📈 GitHub Stats
 ![Swati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatisinghit&show_icons=true&theme=radical)
-
+-->
 ---
 
 💡 Always exploring new datasets & sharpening my analytics skills!
