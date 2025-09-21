@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me
-- 🎓 Background in *Electronics & Communication Engineering*  
+- 🎓 Background in *Engineering*  
 - 📊 Passionate about turning raw data into clear, actionable insights  
 - 🌱 Currently learning **MACHINE LEARNING** 
 - 📚 Building beginner-friendly projects available at https://github.com/swatisinghit 
