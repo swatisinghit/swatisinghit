@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **MACHINE LEARNING** 
 - 📚 Building beginner-friendly projects available at https://github.com/swatisinghit 
 - 💬 Ask me about **Python, SQL, data cleaning, dashboards, storytelling with data, Probability and Statistics, Data Analysis**
+- 📬 You can reach me at *swati.autodidact@gmail.com*
 
 ---
 
